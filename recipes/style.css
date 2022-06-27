@@ -1,0 +1,13 @@
+.main_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+    ;
+}
+
+.title {
+    text-align: center;
+}
+
